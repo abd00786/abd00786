@@ -81,12 +81,27 @@ I am currently building full-stack websites for clients like [Treasured Fragranc
 ## 📉 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAhadSiddiqui-0786&show_icons=true&hide_title=true&theme=react" alt="GitHub Stats"/>
-<br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAhadSiddiqui-0786&theme=react" alt="GitHub Streak"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AbdulAhadSiddiqui-0786&show_icons=true&hide_title=true&theme=react" 
+    alt="GitHub Stats" 
+    width="400"
+  />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhadSiddiqui-0786&layout=compact&theme=react" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAhadSiddiqui-0786&theme=react" 
+    alt="GitHub Streak" 
+    width="400"
+  />
+  <br>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhadSiddiqui-0786&layout=compact&theme=react" 
+    alt="Top Languages" 
+    width="400"
+  />
 </p>
+
+
+
 
 ---
 
