@@ -1,7 +1,7 @@
 <!-- Profile Banner & Greeting -->
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0AE77F&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abdul+Ahad+Siddiqui+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Breaking+Boundaries+in+Tech!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0AE77F&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Abdul+Ahad+Siddiqui+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Breaking+Boundaries+in+Tech!" alt="Typing SVG" />
 
 </p>
 
@@ -59,8 +59,8 @@ I am currently building full-stack websites for clients like [Treasured Fragranc
 * **Tech:** React, Redux, REST API, TailwindCSS
 
 **Rugas ORM**
-* *(Add a 1-line description of what this project does here)*
-* *(Add 1-2 key features or problems solved)*
+* A full-stack Order Management System 
+* Application allows authenticated users to onboard customers, manage products, place and update orders, and view order statistics.
 * **Tech:** MERN, JWT, TailwindCSS
 
 ---
