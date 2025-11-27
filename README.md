@@ -82,7 +82,7 @@ I am currently building full-stack websites for clients like [Treasured Fragranc
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=AbdulAhadSiddiqui-0786&show_icons=true&hide_title=true&theme=react" 
+    src="https://github-readme-stats.vercel.app/api?username=Abd007866&show_icons=true&hide_title=true&theme=react" 
     alt="GitHub Stats" 
     width="400"
   />
