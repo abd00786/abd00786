@@ -94,7 +94,7 @@ I am currently building full-stack websites for clients like [Treasured Fragranc
   />
   <br>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhadSiddiqui-0786&layout=compact&theme=react" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd00786&layout=compact&theme=react" 
     alt="Top Languages" 
     width="400"
   />
