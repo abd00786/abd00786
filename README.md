@@ -78,36 +78,22 @@ I am currently building full-stack websites for clients like [Treasured Fragranc
   [View Certificate](https://trainings.internshala.com/s/v/3636441/b5222566)
 
 ---
-## 📉 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-
-  <!-- Main Stats Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=abd00786&show_icons=true&count_private=true&theme=react&hide_title=false" 
-    width="400" 
-    alt="GitHub Stats"
+  <img
+    src="https://github-readme-stats-abd00786.vercel.app/api?username=abd00786&show_icons=true&count_private=true&theme=react"
+    width="400"
+    alt="Abdul Ahad GitHub Stats"
   />
-
   <br />
-
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abd00786&theme=react" 
-    width="400" 
-    alt="GitHub Streak"
+  <img
+    src="https://github-readme-stats-abd00786.vercel.app/api/top-langs/?username=abd00786&layout=compact&theme=react"
+    width="400"
+    alt="Abdul Ahad Top Languages"
   />
-
-  <br />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd00786&layout=compact&theme=react&langs_count=8" 
-    width="400" 
-    alt="Top Languages"
-  />
-
 </p>
+
 
 
 
