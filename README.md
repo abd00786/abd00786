@@ -88,7 +88,7 @@ I am currently building full-stack websites for clients like [Treasured Fragranc
   />
   <br>
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAhadSiddiqui-0786&theme=react" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abd00786&theme=react" 
     alt="GitHub Streak" 
     width="400"
   />
