@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:abdulahadsiddiqui23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-  <a href="https://www.linkedin.com/in/abdulahadsiddiqui0786/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/abd0786"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://portfolio-abd-new.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-16A085?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
   <a href="https://www.instagram.com/abdulahad0078685/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
@@ -102,8 +102,8 @@ I am currently building full-stack websites for clients like [Treasured Fragranc
 
 ## 🌐 Contact
 
-- 📧 **Email:** [abdulahadsiddiqui2@gmail.com](mailto:abdulahadsiddiqui23@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/abdulahadsiddiqui0786](https://www.linkedin.com/in/abdulahadsiddiqui0786/)
+- 📧 **Email:** [abdulahadsiddiqui23@gmail.com](mailto:abdulahadsiddiqui23@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/abdulahadsiddiqui0786](https://www.linkedin.com/in/abd0786)
 - 📸 **Instagram:** [instagram.com/abdulahad0078685](https://www.instagram.com/abdulahad0078685/)
 - 🖥️ **Portfolio:** [portfolio-abd-new.vercel.app](https://portfolio-abd-new.vercel.app/)
 
