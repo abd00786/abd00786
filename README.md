@@ -107,7 +107,7 @@ I am currently building full-stack websites for clients like [Treasured Fragranc
 
 ## 🌐 Contact
 
-- 📧 **Email:** [abdulahadsiddiqui2@gmail.com](mailto:abdulahadsiddiqui2@gmail.com)
+- 📧 **Email:** [abdulahadsiddiqui2@gmail.com](mailto:abdulahadsiddiqui23@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/abdulahadsiddiqui0786](https://www.linkedin.com/in/abdulahadsiddiqui0786/)
 - 📸 **Instagram:** [instagram.com/abdulahad0078685](https://www.instagram.com/abdulahad0078685/)
 - 🖥️ **Portfolio:** [portfolio-abd-new.vercel.app](https://portfolio-abd-new.vercel.app/)
